@@ -1,6 +1,6 @@
-		
 class Color{
-	constructor(nom, icone){ 
-	this.nom = nom; 
-	this.icone =icone; 
-}
+	constructor(name, color){ 
+	this.name = name; 
+	this.color_rgb =color_rgb;
+	} 
+};

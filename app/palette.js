@@ -1,5 +1,5 @@
-var Palette ={
+pixel_studio.palette ={
 	outils: [],  
 	couleurs:[]
-} 	
+};  	
 

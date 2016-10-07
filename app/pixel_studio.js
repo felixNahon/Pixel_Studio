@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8" />
-		<title></title>
-		
-	</head>
-	<body>
-		
-	</body>
-</html>           
+var pixel_studio = {
+
+};    
+
+console.log("pixel_studio started"); 
